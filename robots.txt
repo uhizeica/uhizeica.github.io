@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhizeica.github.io/Jfe/sitemap_index.txt
+Sitemap: https://uhizeica.github.io/Tdk/sitemap_index.txt
+Sitemap: https://uhizeica.github.io/oeb/sitemap_index.txt
+Sitemap: https://uhizeica.github.io/wGu/sitemap_index.txt
